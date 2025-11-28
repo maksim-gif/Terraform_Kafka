@@ -1,0 +1,14 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfstate.*
+
+# Sensitive data
+*.tfvars
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.log
