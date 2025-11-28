@@ -16,7 +16,3 @@
 ## Развертывание
 1. `terraform apply` - Создать ВМ
 2. `./install-kafka.sh` - Установить Docker и Kafka
-
-## Доступ
-- Kafka: IP:29092
-- Zookeeper: IP:22181
